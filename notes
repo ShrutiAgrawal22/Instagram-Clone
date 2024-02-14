@@ -1,6 +1,1 @@
-installation of packages
-npm i 
-mongoose passport passport-local passport-local-mongoose express-session multer uuid
-preview your app
 
-register, login, logout
